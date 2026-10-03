@@ -1567,7 +1567,7 @@ dependencies = [
 
 [[package]]
 name = "ip-parser"
-version = "3.0.0"
+version = "3.0.0-release.1"
 dependencies = [
  "crossbeam-channel",
  "ecolor",

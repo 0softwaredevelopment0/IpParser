@@ -1,6 +1,6 @@
 [package]
 name = "ip-parser"
-version = "3.0.0"
+version = "3.0.0-release.1"
 edition = "2021"
 description = "IP Parser - pattern-based IPv4 scanner and TCP port checker (Rust)"
 license = "AGPL-3.0"
