@@ -2,6 +2,7 @@
 
 ![Rust](https://img.shields.io/badge/Rust-1.85%2B-orange)
 ![Build](https://img.shields.io/badge/build-Cargo-green)
+![Latest release](https://img.shields.io/github/v/release/0softwaredevelopment0/IpParser)
 ![License](https://img.shields.io/badge/license-AGPL--3.0-blue)
 
 > An open-source IP parser for quickly and efficiently checking a huge number of IP addresses.
