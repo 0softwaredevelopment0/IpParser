@@ -153,4 +153,4 @@ Unit tests cover:
 
 ## License
 
-[GNU AGPL v3.0](LICENSE).
+[GNU AGPL v3.0](LICENSE.md).
